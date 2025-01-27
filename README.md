@@ -1,1 +1,2 @@
-# snake-game
+# hotel-management-system
+
